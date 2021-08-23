@@ -1,0 +1,14 @@
+### Exercise 9: Matching Whitespaces
+
+| Match |                                  Text                                   |
+| ----- | :---------------------------------------------------------------------: |
+| Match |                         1.&nbsp;&nbsp;&nbsp;abc                         |
+| Match |                      2.&nbsp;&nbsp;&nbsp;&nbsp;abc                      |
+| Match | 3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;abc |
+| Skip  |                                  4.abc                                  |
+
+### Solution
+
+```
+/\d\.\s+abc/g
+```
