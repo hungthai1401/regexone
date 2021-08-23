@@ -1,4 +1,4 @@
-### Exercise 3: Matching Characters
+### [Exercise 3](https://regexone.com/lesson/matching_characters): Matching Characters
 
 | Match | Text |
 | ----- | :--: |

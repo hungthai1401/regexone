@@ -1,4 +1,4 @@
-### [Exercise 10](https://regexone.com/lesson/line_beginning_end?): Matching Lines
+### [Exercise 10](https://regexone.com/lesson/line_beginning_end): Matching Lines
 
 | Match |                      Text                       |
 | ----- | :---------------------------------------------: |

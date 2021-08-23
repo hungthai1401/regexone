@@ -1,4 +1,4 @@
-### Exercise 5: Matching Character Ranges
+### [Exercise 5](https://regexone.com/lesson/character_ranges): Matching Character Ranges
 
 | Match | Text |
 | ----- | :--: |

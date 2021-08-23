@@ -1,4 +1,4 @@
-### Exercise 9: Matching Whitespaces
+### [Exercise 9](https://regexone.com/lesson/whitespaces): Matching Whitespaces
 
 | Match |                                  Text                                   |
 | ----- | :---------------------------------------------------------------------: |

@@ -1,4 +1,4 @@
-### Exercise 8: Matching Optional Characters
+### [Exercise 8](https://regexone.com/lesson/optional_characters): Matching Optional Characters
 
 | Match |      Text       |
 | ----- | :-------------: |

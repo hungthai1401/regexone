@@ -1,4 +1,4 @@
-### Exercise 6: Matching Repeated Characters
+### [Exercise 6](https://regexone.com/lesson/repeating_characters): Matching Repeated Characters
 
 | Match |   Text    |
 | ----- | :-------: |

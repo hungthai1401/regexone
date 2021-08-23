@@ -1,4 +1,4 @@
-### Exercise 2: Matching With Wildcards
+### [Exercise 2](https://regexone.com/lesson/wildcards_dot): Matching With Wildcards
 
 | Match | Text |
 | ----- | :--: |

@@ -1,4 +1,4 @@
-### Exercise 7: Matching Repeated Characters
+### [Exercise 7](https://regexone.com/lesson/kleene_operators): Matching Repeated Characters
 
 | Match |  Text   |
 | ----- | :-----: |
