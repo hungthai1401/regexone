@@ -1,6 +1,6 @@
 ### [Exercise 2](https://regexone.com/lesson/wildcards_dot): Matching With Wildcards
 
-| Match | Text |
+| Task  | Text |
 | ----- | :--: |
 | Match | cat. |
 | Match | 896. |

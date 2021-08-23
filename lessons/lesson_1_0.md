@@ -1,6 +1,6 @@
 ### [Exercise 1](https://regexone.com/lesson/introduction_abcs): Matching Characters
 
-| Match |  Text   |
+| Task  |  Text   |
 | ----- | :-----: |
 | Match | abcdefg |
 | Match |  abcde  |

@@ -1,6 +1,6 @@
 ### [Exercise 3](https://regexone.com/lesson/matching_characters): Matching Characters
 
-| Match | Text |
+| Task  | Text |
 | ----- | :--: |
 | Match | can  |
 | Match | man  |

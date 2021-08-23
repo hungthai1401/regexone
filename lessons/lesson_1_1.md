@@ -1,6 +1,6 @@
 ### [Exercise 1½](https://regexone.com/lesson/letters_and_digits): Matching Digits
 
-| Match |     Text     |
+| Task  |     Text     |
 | ----- | :----------: |
 | Match |  abc123xyz   |
 | Match | define "123" |

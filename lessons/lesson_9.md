@@ -1,6 +1,6 @@
 ### [Exercise 9](https://regexone.com/lesson/whitespaces): Matching Whitespaces
 
-| Match |                                  Text                                   |
+| Task  |                                  Text                                   |
 | ----- | :---------------------------------------------------------------------: |
 | Match |                         1.&nbsp;&nbsp;&nbsp;abc                         |
 | Match |                      2.&nbsp;&nbsp;&nbsp;&nbsp;abc                      |

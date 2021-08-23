@@ -1,6 +1,6 @@
 ### [Exercise 10](https://regexone.com/lesson/line_beginning_end): Matching Lines
 
-| Match |                      Text                       |
+| Task |                      Text                       |
 | ----- | :---------------------------------------------: |
 | Match |               Mission: successful               |
 | Skip  |           Last Mission: unsuccessful            |

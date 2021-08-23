@@ -1,6 +1,6 @@
 ### [Exercise 5](https://regexone.com/lesson/character_ranges): Matching Character Ranges
 
-| Match | Text |
+| Task  | Text |
 | ----- | :--: |
 | Match | Ana  |
 | Match | Bob  |

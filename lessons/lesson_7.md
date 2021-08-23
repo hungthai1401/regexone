@@ -1,6 +1,6 @@
 ### [Exercise 7](https://regexone.com/lesson/kleene_operators): Matching Repeated Characters
 
-| Match |  Text   |
+| Task  |  Text   |
 | ----- | :-----: |
 | Match | aaaabcc |
 | Match | aabbbbc |

@@ -1,6 +1,6 @@
 ### [Exercise 8](https://regexone.com/lesson/optional_characters): Matching Optional Characters
 
-| Match |      Text       |
+| Task  |      Text       |
 | ----- | :-------------: |
 | Match |  1 file found?  |
 | Match |  2 file found?  |

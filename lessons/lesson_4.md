@@ -1,6 +1,6 @@
 ### [Exercise 4](https://regexone.com/lesson/excluding_characters): Excluding Characters
 
-| Match | Text |
+| Task  | Text |
 | ----- | :--: |
 | Match | hog  |
 | Match | dog  |

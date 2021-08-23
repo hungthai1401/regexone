@@ -1,6 +1,6 @@
 ### [Exercise 6](https://regexone.com/lesson/repeating_characters): Matching Repeated Characters
 
-| Match |   Text    |
+| Task  |   Text    |
 | ----- | :-------: |
 | Match | wazzzzzup |
 | Match |  wazzzup  |
